@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.dakusui:combinatoradix:0.9.2" type="repository">
+    <properties maven-id="com.github.dakusui:combinatoradix:0.9.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/combinatoradix-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/combinatoradix-0.9.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
